@@ -1,0 +1,12 @@
+{
+    "name": "com.inferno.gamemodeframework",
+    "version": "0.1.0",
+    "displayName": "Game Mode Framework",
+    "description": "This is an example package",
+    "unity": "2022.3",
+    "unityRelease": "4f1",
+    "author": {
+      "name": "Aniket Kayande",
+      "email": "aniket.kayande@gmail.com"
+    }
+  }
